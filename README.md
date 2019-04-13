@@ -85,6 +85,11 @@ cat_to_name.json	      GPU_StyleTransfer.ipynb
  GPU_dog_cat.ipynb
  ```
  After these configuration steps, it's ready for the trainning with Pytorch!
+## Data Set
+The flower image folder can be downloaded from the URL:
+```
+https://s3.amazonaws.com/content.udacity-data.com/courses/nd188/flower_data.zip
+```
 ## Result
 The data folder has train and valid sets, the final model achives 95% trainning accuracy and 96% valid accuracy.
 ## Project State
