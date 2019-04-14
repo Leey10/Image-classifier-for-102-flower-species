@@ -93,7 +93,7 @@ https://s3.amazonaws.com/content.udacity-data.com/courses/nd188/flower_data.zip
 ## Result
 The data folder has train and valid sets, the final model achives 95% trainning accuracy and 96% valid accuracy.
 ## Project State
-On going, trying different methods to increase valid accuracy >98%.
+Finished,but trying different methods to increase valid accuracy >98%.
 ## References
 1. [Udacity Pytorch Challenge notebook](https://github.com/udacity/pytorch_challenge)
 2. [PYTORCH TRANSFER LEARNING TUTORIAL](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
